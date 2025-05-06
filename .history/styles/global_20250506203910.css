@@ -22,7 +22,3 @@
   --stroke-hightlight: #f3541c;
   --semantics-error:#dc2626;                                                 
 }
-
-body {
-  overflow: hidden;
-}

@@ -1,7 +1,5 @@
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+  
 }
 
 :root {
@@ -21,8 +19,4 @@
   --stroke-default: #d6d3d1;
   --stroke-hightlight: #f3541c;
   --semantics-error:#dc2626;                                                 
-}
-
-body {
-  overflow: hidden;
 }
