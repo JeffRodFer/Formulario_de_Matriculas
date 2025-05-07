@@ -23,8 +23,7 @@ main {
   }
 
   & h1 {
-    font: 600 1.5rem/1.25 var(--font-family);
-    margin-bottom: .5rem;
+    
   }
 
 }
@@ -34,19 +33,6 @@ aside {
 
   & .aside-container {
     max-width: 31rem;
-
-    & > img {
-      margin-top: 2rem;
-    }
-
-  }
-
-  & h2 {
-    font: 600 2.5rem/1.25 var(--font-family);
-
-    & span {
-      color: var(--text-hightlight);
-    }
   }
 
 }

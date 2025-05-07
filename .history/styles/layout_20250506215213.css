@@ -34,11 +34,6 @@ aside {
 
   & .aside-container {
     max-width: 31rem;
-
-    & > img {
-      margin-top: 2rem;
-    }
-
   }
 
   & h2 {

@@ -36,7 +36,8 @@ aside {
     max-width: 31rem;
 
     & > img {
-      margin-top: 2rem;
+      width: 100%;
+      height: auto;
     }
 
   }

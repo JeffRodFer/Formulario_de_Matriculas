@@ -34,19 +34,10 @@ aside {
 
   & .aside-container {
     max-width: 31rem;
-
-    & > img {
-      margin-top: 2rem;
-    }
-
   }
 
   & h2 {
-    font: 600 2.5rem/1.25 var(--font-family);
-
-    & span {
-      color: var(--text-hightlight);
-    }
+    font: 600 2.5rem/1.25 var(--font-family)
   }
 
 }
