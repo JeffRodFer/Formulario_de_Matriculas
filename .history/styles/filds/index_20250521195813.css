@@ -25,24 +25,17 @@ textarea:focus {
   /* outline-offset: .1px;  */
 }
 
-select {
-  background: url(../../assets/icons/arrow-down-01.svg)
-  no-repeat calc(100% -  1rem);
-}
-/* input[type="date"] {
+input[type="date"] {
   position: relative;
-
   &::-webkit-calendar-picker-indicator {
-    opacity: 0;
-   
+    position: absolute;
+    background: url(../../assets/calenddar-03.sgv)
+    center/contain;
+    right: 1rem;
   }
-
 &::before {
-  content: "";
-  position: absolute;
-  background: url(../../assets/calendar-03.sgv)
-  center/contain;
-  right: 1rem;
-} */
+    
+}
 
 
+}

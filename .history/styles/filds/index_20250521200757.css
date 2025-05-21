@@ -25,10 +25,7 @@ textarea:focus {
   /* outline-offset: .1px;  */
 }
 
-select {
-  background: url(../../assets/icons/arrow-down-01.svg)
-  no-repeat calc(100% -  1rem);
-}
+sele
 /* input[type="date"] {
   position: relative;
 
