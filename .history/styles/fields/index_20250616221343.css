@@ -52,8 +52,8 @@ input[type="date"] {
   gap: 1.25rem;
   }
 
-.input-wrapper:has([disabled]) {
-  opacity: .05;
+.input-wrapper:has([aria-disabled]) {
+  opacity: .1;
 }
 
 input {
